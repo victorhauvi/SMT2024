@@ -14,3 +14,5 @@ __pycache__/
 model_epochs/
 
 modelData_1.csv
+
+model_results.txt
