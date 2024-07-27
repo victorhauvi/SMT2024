@@ -16,3 +16,5 @@ model_epochs/
 modelData_1.csv
 
 model_results.txt
+
+modelinput.csv
